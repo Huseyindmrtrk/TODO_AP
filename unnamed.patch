@@ -1,0 +1,12 @@
+Index: .gitattributes
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitattributes b/.gitattributes
+new file mode 100644
+--- /dev/null	(revision 42af23cec9a874580ba1108dbeaf7d734ccbbac6)
++++ b/.gitattributes	(revision 42af23cec9a874580ba1108dbeaf7d734ccbbac6)
+@@ -0,0 +1,2 @@
++# Auto detect text files and perform LF normalization
++* text=auto
